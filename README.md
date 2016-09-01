@@ -1,5 +1,5 @@
 # four-rectangle-printer-mods
-Modifications to FourRectanglePrinter programming assignment: pg.74 #1
+Modifications to FourRectanglePrinter programming assignment: pg.74 #1{
 
 import java.awt.*;
 
@@ -25,4 +25,7 @@ public class PrintRectanglesMod
 		fibBOnnaXxi.translate(-8,0);
 		System.out.println(fibBOnnaXxi);
 	}
+}
+
+
 }
