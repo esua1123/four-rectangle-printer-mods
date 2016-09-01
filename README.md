@@ -7,22 +7,22 @@ public class PrintRectanglesMod
 {
 	public static void main(String[] args)
 	{
-		Rectangle fibBonnaXxi = new Rectangle(0,0,8,13);
+		Rectangle fibBOnnaXxi = new Rectangle(0,0,8,13);
 		
-		System.out.println(fibBonnaXxi);
+		System.out.println(fibBOnnaXxi);
 		
-		fibMoreNaxis(fibBonnaXxi);
+		fibMoreNaxis(fibBOnnaXxi);
 	}
 	
-	public static void fibMoreNaxis(Rectangle fibBonnaXxi)
+	public static void fibMoreNaxis(Rectangle fibBOnnaXxi)
 	{
-		fibBonnaXxi.translate(8,0);
-		System.out.println(fibBonnaXxi);
+		fibBOnnaXxi.translate(8,0);
+		System.out.println(fibBOnnaXxi);
 		
-		fibBonnaXxi.translate(0,13);
-		System.out.println(fibBonnaXxi);
+		fibBOnnaXxi.translate(0,13);
+		System.out.println(fibBOnnaXxi);
 		
-		fibBonnaXxi.translate(-8,0);
-		System.out.println(fibBonnaXxi);
+		fibBOnnaXxi.translate(-8,0);
+		System.out.println(fibBOnnaXxi);
 	}
 }
