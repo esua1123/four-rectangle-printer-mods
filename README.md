@@ -1,4 +1,4 @@
-# four-rectangle-printer-mods
+# four-rectangle-printer-MODS
 Modifications to FourRectanglePrinter programming assignment: pg.74 #1
 
 import java.awt.*;
